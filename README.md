@@ -14,11 +14,7 @@ PREPROCESSING OF THE DATA:
 3. The final correlation matrix will calculated after removing irrelevant coloumns.
 4. A heat map will be plotted for better understanding of the correlation matrix.
 
-The following methods were used to analyze and predict the final grades:
-a. Naive Bayes
-b. Decision Trees
-c. Neural Networks
-d. Linear SVM
+The following methods were used to analyze and predict the final grades: Naive Bayes; Decision Trees; Neural Networks; Linear SVM.
 
 To install the required packages,run the script -> install.R
 If it doesn't work,then install the packages individually using -> install.packages("package_name")
