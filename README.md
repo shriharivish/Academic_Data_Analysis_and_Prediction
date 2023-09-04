@@ -1,6 +1,6 @@
 # Academic_Data_Analysis_and_Prediction_using_R
 
-**_Completed in fulfillment of the Machine Learning Course at BITS Pilani; Advisor: Dr. Navneet Goyal_**
+**_Completed in fullfillment of the Machine Learning Course at BITS Pilani; Advisor: Dr. Navneet Goyal_**
 
 This repository contains analysis and prediction of a student's final grade using different Machine Learning methodologies and the data contains the student's mid-semester performance along with some other academic information.
 
