@@ -15,9 +15,9 @@ Preprocessing of the Data:
 4. A heat map will be plotted for better understanding of the correlation matrix.
 
 The following methods were used to analyze and predict the final grades:
-a. Naive Bayes
-b. Decision Trees
-c. Neural Networks
+a. Naive Bayes; 
+b. Decision Trees; 
+c. Neural Networks; 
 d. Linear SVM
 
 To install the required packages,run the script -> install.R
