@@ -9,16 +9,16 @@ The given data is taken for 205 students.
 It contains the following coloumns- IDNO, YEAR, ATTENDANCE %, CGPA, MidSemester, MidSemester Grades, MidSemester Collection, Quiz1, Quiz2, Part A, Part B and Grade.
 
 PREPROCESSING OF THE DATA:
-(i)All the coloumns with very less values will be removed. For example, 'CGPA' has only 40 values.
-(ii)Using the correlation matrix,the coloumns which had very low correlation values will be removed.
-(iii)The final correlation matrix will calculated after removing irrelevant coloumns.
-(iv)A heat map will be plotted for better understanding of the correlation matrix.
+1. All the coloumns with very less values will be removed. For example, 'CGPA' has only 40 values.
+2. Using the correlation matrix,the coloumns which had very low correlation values will be removed.
+3. The final correlation matrix will calculated after removing irrelevant coloumns.
+4. A heat map will be plotted for better understanding of the correlation matrix.
 
 The following methods were used to analyze and predict the final grades:
-1.Naive Bayes
-2.Decision Trees
-3.Neural Networks
-4.Linear SVM
+a. Naive Bayes
+b. Decision Trees
+c. Neural Networks
+d. Linear SVM
 
 To install the required packages,run the script -> install.R
 If it doesn't work,then install the packages individually using -> install.packages("package_name")
