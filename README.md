@@ -8,7 +8,7 @@ The data is in the csv file named "grade_original.csv".
 The given data is taken for 205 students.
 It contains the following columns- IDNO, YEAR, ATTENDANCE %, CGPA, MidSemester, MidSemester Grades, MidSemester Collection, Quiz1, Quiz2, Part A, Part B and Grade.
 
-PREPROCESSING OF THE DATA:
+Preprocessing of the Data:
 1. All the columns with very less values will be removed. For example, 'CGPA' has only 40 values.
 2. Using the correlation matrix,the columns which had very low correlation values will be removed.
 3. The final correlation matrix will be calculated after removing irrelevant columns.
