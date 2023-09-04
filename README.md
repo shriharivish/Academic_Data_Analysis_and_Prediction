@@ -9,10 +9,10 @@ The given data is taken for 205 students.
 It contains the following coloumns- IDNO, YEAR, ATTENDANCE %, CGPA, MidSemester, MidSemester Grades, MidSemester Collection, Quiz1, Quiz2, Part A, Part B and Grade.
 
 Preprocessing of the Data:
-2. All the coloumns with very less values will be removed. For example, 'CGPA' has only 40 values.
-3. Using the correlation matrix,the coloumns which had very low correlation values will be removed.
-4. The final correlation matrix will calculated after removing irrelevant coloumns.
-5. A heat map will be plotted for better understanding of the correlation matrix.
+1. All the coloumns with very less values will be removed. For example, 'CGPA' has only 40 values.
+2. Using the correlation matrix,the coloumns which had very low correlation values will be removed.
+3. The final correlation matrix will calculated after removing irrelevant coloumns.
+4. A heat map will be plotted for better understanding of the correlation matrix.
 
 The following methods were used to analyze and predict the final grades: Naive Bayes; Decision Trees; Neural Networks; Linear SVM.
 
