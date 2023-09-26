@@ -1,4 +1,4 @@
-# Academic_Data_Analysis_and_Prediction_using_R
+# Academic Data Analysis and Prediction using R
 
 **_Completed in fullfillment of the Machine Learning Course at BITS Pilani; Advisor: Dr. Navneet Goyal_**
 
@@ -14,14 +14,27 @@ Preprocessing of the Data:
 3. The final correlation matrix will be calculated after removing irrelevant columns.
 4. A heat map will be plotted for better understanding of the correlation matrix.
 
-The following methods were used to analyze and predict the final grades:
-a. Naive Bayes; 
-b. Decision Trees; 
-c. Neural Networks; 
-d. Linear SVM
 
-To install the required packages,run the script -> install.R
-If it doesn't work,then install the packages individually using -> install.packages("package_name")
+## Installation:
+    - Install the "requiRements" package:
+        - install.packages("requiRements")
+    - Install all the other dependencies:
+        - Run install.R
+
+### Methods:
+The following methods were used to analyze and predict the final grades:  
+1. **Naive Bayes**  
+    - Run `naive_bayes.R`
+2. **Decision Trees**  
+    - Run `decision_tree.R`
+    - PCA processed Run `decision_tree_pca.R`
+3. **Neural Networks**
+    - Run `neuralnet.R`
+4. **Linear SVM**  
+    - Run `svm.R`
+
+### Comparison
+Compare all methods by running `barplot.R`.
 
 _I can be contacted for the official project report or any further clarifications._
 
