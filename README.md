@@ -15,7 +15,7 @@ Preprocessing of the Data:
 4. A heat map will be plotted for better understanding of the correlation matrix.
 
 
-## Installation:
+### Installation:
     - Install the "requiRements" package:
         - install.packages("requiRements")
     - Install all the other dependencies:
